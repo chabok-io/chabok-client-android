@@ -18,5 +18,9 @@ See Chabok Push [Android library installation](https://doc.chabok.io/android/sdk
 See Chabok Push [Usage](https://doc.chabok.io/android/sdk-setup.html#%DB%B3--%D9%85%D9%82%D8%AF%D8%A7%D8%B1%D8%AF%D9%87%DB%8C-%D8%A7%D9%88%D9%84%DB%8C%D9%87-initialize) page for a list of all available methods.
 
 
+### Release Note
+You can find release note [here](https://doc.chabok.io/android/release-note.html).
+
+
 ### Support
 Please visit [Issues](https://github.com/chabok-io/chabok-client-android/issues).
